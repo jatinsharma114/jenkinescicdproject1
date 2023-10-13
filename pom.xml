@@ -57,6 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<fileName>application</fileName>
 	</build>
 
 </project>
